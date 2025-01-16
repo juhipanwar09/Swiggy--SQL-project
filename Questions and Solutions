@@ -1,3 +1,5 @@
+#Swiggy seeks insights from its SQL dataset. Implement sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.
+
 --Display all customers who live in 'Delhi'.
 SELECT 
     *
